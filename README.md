@@ -15,8 +15,9 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PostegreSql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> 
-  <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> 
-  <img align="center" alt="Git" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Visual Studio Code" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> 
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Git" height="30" width="35" src="/assets/GitHub.png">
 </div>
 
 <hr>
@@ -30,4 +31,4 @@
   
 ### Watch my contribution graph get eaten by the snake 🐍
 
-![snake gif](https://github.com/Tchorel/Tchorel/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/tchorel/tchorel/blob/output/github-contribution-grid-snake.svg)
