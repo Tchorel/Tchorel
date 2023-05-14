@@ -32,6 +32,3 @@
 ### Watch my contribution graph get eaten by the snake 🐍
 
 ![Snake animation](https://github.com/Tchorel/Tchorel/blob/output/github-contribution-grid-snake.svg)
-
-git config --global user.name "Tchorel"
-git config --global user.email "joeljunio54@gmail.com"
