@@ -1,4 +1,4 @@
-## Hi! I'm Joel Ferreira (Tchorel) 😁 :sparkles:
+## Hi! I'm Joel Ferreira (Tchorel) 😁
 
 * :school_satchel: Software Engineering student at Estácio (7th period) 
 * 📘 Nowadays I'm learning about Web development using Java for the backend, HTML and CSS for the front-end
