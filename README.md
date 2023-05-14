@@ -30,4 +30,4 @@
   
 ### Watch my contribution graph get eaten by the snake 🐍
 
-![Tchorel snake gif](https://github.com/Tchorel/Tchorel/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Tchorel/Tchorel/blob/output/github-contribution-grid-snake.gif)
