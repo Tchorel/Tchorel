@@ -1,8 +1,9 @@
 ## Hi! I'm Joel Ferreira (Tchorel) 😁
 
-* :school_satchel: Software Engineering student at Estácio (7th period) 
-* 📘 Nowadays I'm learning about Web development using Java for the backend, HTML and CSS for the front-end
+* :school_satchel: Bacharel in Software Engineering.
+* 📘 Nowadays I'm learning about Web development using Java for the backend, HTML and CSS for the front-end.
 * My favorite programming language is Python, and I'm interested about learning more about data analysis.
+* Actualy I'm working with Data Analyst in Monteverde Investimentos.
 
 <div>
   <a href="https://github.com/Tchorel">
